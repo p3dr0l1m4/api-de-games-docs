@@ -48,6 +48,7 @@ Exemplo de resposta:
 Essse endpoint é responsável por fazer login. 
 #### Parametros
 email: E-mail do usuário cadastrado no sistema. 
+
 password: Senha do usuário cadastrado no sistema, com aquele determinado e-mail.
 
 Exemplo:
